@@ -1,0 +1,10 @@
+
+
+Ruby | 擬似変数(true/false/nil)について (javadrive.jp)
+• self ...参照された場所による
+• nil
+• true
+• false
+• _FILE_ ...ソースファイル名
+• _LINE_ ...行番号
+• ENCODING_

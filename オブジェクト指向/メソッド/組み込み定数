@@ -1,0 +1,27 @@
+
+
+Ruby | 組み込み定数の種類と使い方 (javadrive.jp)
+• ARGF
+
+• ARGV ...引数の配列を文字列として取得
+ex) 
+ruby *.rb sample1 sample2
+ARGV[0] = sample1
+
+• DATA
+• ENV
+• STDIN
+• STDOUT
+• STDERR
+• SCRIPT_LINES
+• TOPLEVEL_BUILDING
+• RUBY_ 
+
+
+その他
+
+• export 環境変数=○○ ...mac/Linux環境で環境変数を設定
+- Windowsの場合はset 
+
+
+
